@@ -3,7 +3,7 @@
     "rules": ""
   },
   "hosting": {
-    "public": "dist",
+    "public": "dist/richards-recipes",
     "ignore": [
       "firebase.json",
       "**/.*",
