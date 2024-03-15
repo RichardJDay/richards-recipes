@@ -1,9 +1,9 @@
 {
   "database": {
-    "rules": "recipes"
+    "rules": "dist"
   },
   "hosting": {
-    "public": "n",
+    "public": "",
     "ignore": [
       "firebase.json",
       "**/.*",
