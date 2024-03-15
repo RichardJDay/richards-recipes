@@ -18,5 +18,4 @@ jobs:
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_RICHARDS_RECIPES }}"
-          channelId: live
           projectId: richards-recipes
