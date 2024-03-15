@@ -1,6 +1,6 @@
 {
   "database": {
-    "rules": "dist"
+    "rules": ""
   },
   "hosting": {
     "public": "dist",
